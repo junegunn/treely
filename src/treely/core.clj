@@ -65,7 +65,7 @@
 (defn- container?
   "Returns if the given argument is a container for child elements"
   [e]
-  (and (or (vector? e) (seq? e))))
+  (or (vector? e) (seq? e)))
 
 (defn- ^String elem->str
   "Returns the line for the element in the tree diagram. Can handle multi-line
