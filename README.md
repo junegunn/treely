@@ -2,6 +2,10 @@
 
 A simple Clojure library for generating tree diagram of nested data structure.
 
+## Leiningen coordinates
+
+    [treely "0.1.0-SNAPSHOT"]
+
 ## Usage
 
 ### `tree`
