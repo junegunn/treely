@@ -1,4 +1,4 @@
-(defproject treely "0.1.0-SNAPSHOT"
+(defproject treely "0.1.0"
   :description "Library for generating tree diagram of nested data structure"
   :url "http://github.com/junegunn/treely"
   :license {:name "MIT"}

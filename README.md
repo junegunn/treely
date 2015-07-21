@@ -2,9 +2,9 @@
 
 A simple Clojure library for generating tree diagram of nested data structure.
 
-## Leiningen coordinates
+## Leiningen
 
-    [treely "0.1.0-SNAPSHOT"]
+[![Clojars Project](http://clojars.org/treely/latest-version.svg)](http://clojars.org/treely)
 
 ## Usage
 
